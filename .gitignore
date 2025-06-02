@@ -7,3 +7,4 @@ build/
 .venv/
 *.log
 .pytest_cache/
+*.tmp
